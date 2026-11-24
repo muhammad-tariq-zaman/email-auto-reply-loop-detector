@@ -1,0 +1,8 @@
+from_mailbox,to_mailbox,auto_replies,subject
+support@company.pk,hr@company.pk,2,Out of office
+helpdesk@company.pk,vendor@partner.com,6,Out of office
+noreply@company.pk,client@customer.com,3,Auto reply
+it@company.pk,admin@company.pk,1,Out of office
+admin@company.pk,it@company.pk,2,Out of office
+broken@company.pk,other@company.pk,many,Out of office
+sales@company.pk,info@company.pk,2,Vacation reply
